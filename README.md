@@ -7,3 +7,4 @@ App desenvolvido em VueJS no curso de web moderno, o projeto é um jogo simples,
 ## Demais tecnologias usadas: 
 - HTML
 - CSS
+- Javascript
